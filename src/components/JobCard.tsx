@@ -27,7 +27,7 @@ export function JobCard({ job, onClick }: JobCardProps) {
       aria-label={`View details for ${job.title} at ${job.company}`}
     >
       <h3 className="text-lg font-bold">{job.title}</h3>
-      <p className="text-gray-600">{job.company}</p>
+      <p className="text-gray-600 dark:text-white">{job.company}</p>
       <p className="text-sm text-gray-500">
         {job.location} • {job.type}
       </p>
