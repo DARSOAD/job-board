@@ -1,0 +1,58 @@
+[
+  {
+    "id": "job-001",
+    "title": "Frontend Developer",
+    "company": "TechCorp",
+    "location": "Remote",
+    "type": "Full-time",
+    "description": "Join our fast-paced team to build modern web experiences."
+  },
+  {
+    "id": "job-002",
+    "title": "UI/UX Designer",
+    "company": "Creative Inc.",
+    "location": "New York, NY",
+    "type": "Contract",
+    "description": "Design user-first interfaces for our SaaS products."
+  },
+  {
+    "id": "job-003",
+    "title": "Backend Engineer",
+    "company": "DataWorks",
+    "location": "San Francisco, CA",
+    "type": "Full-time",
+    "description": "Develop and maintain scalable backend services and APIs."
+  },
+  {
+    "id": "job-004",
+    "title": "Digital Marketing Specialist",
+    "company": "MarketMinds",
+    "location": "Remote",
+    "type": "Part-time",
+    "description": "Create and manage online marketing campaigns across platforms."
+  },
+  {
+    "id": "job-005",
+    "title": "Customer Support Representative",
+    "company": "HelpDesk Heroes",
+    "location": "Austin, TX",
+    "type": "Part-time",
+    "description": "Assist customers via chat, email, and phone with product inquiries."
+  },
+  {
+    "id": "job-006",
+    "title": "Software Engineering Intern",
+    "company": "Innovatech",
+    "location": "Boston, MA",
+    "type": "Internship",
+    "description": "Work closely with senior engineers to develop software solutions."
+  },
+  {
+    "id": "job-007",
+    "title": "Content Writer",
+    "company": "WordSmith Agency",
+    "location": "Remote",
+    "type": "Freelance",
+    "description": "Write engaging blog posts, articles, and marketing copy."
+  }
+]
