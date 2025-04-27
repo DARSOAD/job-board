@@ -17,7 +17,7 @@ export const generateMetadata = async (): Promise<Metadata> => {
       title: "Job Board",
       description: "Browse and apply to full-time and contract jobs easily.",
     },
-    robots: "index, follow", // (opcional) ayuda a SEO
+    robots: "index, follow", 
   };
 };
 
