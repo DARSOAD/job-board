@@ -72,7 +72,7 @@ This project was developed as part of a technical challenge to demonstrate skill
 1. Clone the repository:
 
 ```bash
-git clone [repository-link]
+git clone https://github.com/DARSOAD/job-board
 ```
 
 2. Install dependencies:
